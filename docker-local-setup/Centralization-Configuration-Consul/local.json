@@ -1,0 +1,217 @@
+[
+	{
+		"key": "config/spark-service/kafka.topic.iothub",
+		"flags": 0,
+		"value": "bXlJb3RodWJz"
+	},
+	{
+		"key": "config/spark-service/kafka.topic.device",
+		"flags": 0,
+		"value": "bXlEZXZpY2VlZQ=="
+	},
+	{
+		"key": "config/spark-service/redis.port",
+		"flags": 0,
+		"value": "NjM3OQ=="
+	},
+	{
+		"key": "config/spark-service/kafka.request.timeout.ms",
+		"flags": 0,
+		"value": "MTIwMDAw"
+	},
+	{
+		"key": "config/spark-service/redis.connection.min.idle",
+		"flags": 0,
+		"value": "MTY="
+	},
+	{
+		"key": "config/spark-service/job.runner.rest.port",
+		"flags": 0,
+		"value": "MTU1OQ=="
+	},
+	{
+		"key": "config/spark-service/redis.testOnBorrow",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/spark.enable.monitoring",
+		"flags": 0,
+		"value": "ZmFsc2U="
+	},
+	{
+		"key": "config/spark-service/postgresql.username",
+		"flags": 0,
+		"value": "cG9zdGdyZXM="
+	},
+	{
+		"key": "config/spark-service/kafka.source.bootstrap.server",
+		"flags": 0,
+		"value": "bG9jYWxob3N0OjkwOTI="
+	},
+	{
+		"key": "config/spark-service/kafka.consumer.pollTimeoutMs",
+		"flags": 0,
+		"value": "MzAwMDA="
+	},
+	{
+		"key": "config/spark-service/kafka.bootstrap.servers",
+		"flags": 0,
+		"value": "bG9jYWxob3N0OjkwOTI="
+	},
+	{
+		"key": "config/spark-service/redis.password",
+		"flags": 0,
+		"value": "aGVsbG9AMTIz"
+	},
+	{
+		"key": "config/spark-service/blc.api.delay",
+		"flags": 0,
+		"value": "MTAwMA=="
+	},
+	{
+		"key": "config/spark-service/redis.TestOnReturn",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/kafka.receive.buffer.bytes",
+		"flags": 0,
+		"value": "NTEyMDAw"
+	},
+	{
+		"key": "config/spark-service/redis.BlockWhenExhausted",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/job.runner.name",
+		"flags": 0,
+		"value": "SlItMQ=="
+	},
+	{
+		"key": "config/spark-service/redis.TestsPerEvictionRun",
+		"flags": 0,
+		"value": "Mw=="
+	},
+	{
+		"key": "config/spark-service/job.runner.service.url",
+		"flags": 0,
+		"value": "aHR0cDovL2xvY2FsaG9zdDoxNTU5"
+	},
+	{
+		"key": "config/spark-service/kafka.max.offset",
+		"flags": 0,
+		"value": "NTAw"
+	},
+	{
+		"key": "config/spark-service/kafka.failOnDataLoss",
+		"flags": 0,
+		"value": "ZmFsc2U="
+	},
+	{
+		"key": "config/spark-service/spark.config.map",
+		"flags": 0,
+		"value": "eyJzcGFyay5zcWwuc3RyZWFtaW5nLmNoZWNrcG9pbnRMb2NhdGlvbiI6Ii90bXAifQ=="
+	},
+	{
+		"key": "config/spark-service/azure.api.delay",
+		"flags": 0,
+		"value": "MTAwMDA="
+	},
+	{
+		"key": "config/spark-service/redis.connection.max.idle",
+		"flags": 0,
+		"value": "MTI4"
+	},
+	{
+		"key": "config/spark-service/kafka.num.partitions",
+		"flags": 0,
+		"value": "NA=="
+	},
+	{
+		"key": "config/spark-service/kafka.session.timeout.ms",
+		"flags": 0,
+		"value": "NjAwMDA="
+	},
+	{
+		"key": "config/spark-service/azure.device.size",
+		"flags": 0,
+		"value": "MTAwMDA="
+	},
+	{
+		"key": "config/spark-service/redis.TestWhileIdle",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/redis.timeout",
+		"flags": 0,
+		"value": "NjAwMDA="
+	},
+	{
+		"key": "config/spark-service/spark.master.islocal",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/redis.connection.max.total",
+		"flags": 0,
+		"value": "MTI4"
+	},
+	{
+		"key": "config/spark-service/transformation.service.accesskey",
+		"flags": 0,
+		"value": "YWJj"
+	},
+	{
+		"key": "config/spark-service/postgresql.password",
+		"flags": 0,
+		"value": "cG9zdGdyZXNz"
+	},
+	{
+		"key": "config/spark-service/postgresql.database",
+		"flags": 0,
+		"value": "aGVsbG8="
+	},
+	{
+		"key": "config/spark-service/transformation.service.url",
+		"flags": 0,
+		"value": "aHR0cDovL2xvY2FsaG9zdDo5MDk1"
+	},
+	{
+		"key": "config/spark-service/job.runner.identifier",
+		"flags": 0,
+		"value": "SlItMTI="
+	},
+	{
+		"key": "config/spark-service/redis.host",
+		"flags": 0,
+		"value": "bG9jYWxob3N0"
+	},
+	{
+		"key": "config/spark-service/blc.device.size",
+		"flags": 0,
+		"value": "MjA="
+	},
+	{
+		"key": "config/spark-service/transformation.service.bypass.registration",
+		"flags": 0,
+		"value": "dHJ1ZQ=="
+	},
+	{
+		"key": "config/spark-service/postgresql.url",
+		"flags": 0,
+		"value": "amRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzMvZGl0P2N1cnJlbnRTY2hlbWE9cHVibGlj"
+	},
+	{
+		"key": "config/spark-service/transformation.service.secretkey",
+		"flags": 0,
+		"value": "YWJj"
+	},
+	{
+		"key": "config/spark-service/kafka.start.offset",
+		"flags": 0,
+		"value": "bGF0ZXN0"
+	}
+]
